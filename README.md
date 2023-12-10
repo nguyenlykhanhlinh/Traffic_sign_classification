@@ -1,2 +1,2 @@
-# Traffic_sign_classification
-Phân loại biển báo giao thông 
+# Traffic Signs Classification with CNN
+Phân loại biển báo giao thông sử dụng convolution neural network (CNN) 
